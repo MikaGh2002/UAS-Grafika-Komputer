@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3D Object", "3D Object\3D Object.csproj", "{AA8E4FE4-87F5-470A-8F66-156A5C2A1A96}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common", "Common\Common.csproj", "{5D84ACC3-08B5-4918-9A3F-51BB91C527B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA8E4FE4-87F5-470A-8F66-156A5C2A1A96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA8E4FE4-87F5-470A-8F66-156A5C2A1A96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA8E4FE4-87F5-470A-8F66-156A5C2A1A96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA8E4FE4-87F5-470A-8F66-156A5C2A1A96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D84ACC3-08B5-4918-9A3F-51BB91C527B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D84ACC3-08B5-4918-9A3F-51BB91C527B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D84ACC3-08B5-4918-9A3F-51BB91C527B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D84ACC3-08B5-4918-9A3F-51BB91C527B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD29C594-AEE4-415F-A899-79D684B9E440}
+	EndGlobalSection
+EndGlobal

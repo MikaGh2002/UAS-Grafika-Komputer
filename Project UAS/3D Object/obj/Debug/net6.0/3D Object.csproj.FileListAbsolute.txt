@@ -1,0 +1,144 @@
+C:\ALPHA\Kuliah\Sem4\Grafkom\Praktek\3D Object\3D Object\bin\Debug\net6.0\3D Object.exe
+C:\ALPHA\Kuliah\Sem4\Grafkom\Praktek\3D Object\3D Object\bin\Debug\net6.0\3D Object.deps.json
+C:\ALPHA\Kuliah\Sem4\Grafkom\Praktek\3D Object\3D Object\bin\Debug\net6.0\3D Object.runtimeconfig.json
+C:\ALPHA\Kuliah\Sem4\Grafkom\Praktek\3D Object\3D Object\bin\Debug\net6.0\3D Object.dll
+C:\ALPHA\Kuliah\Sem4\Grafkom\Praktek\3D Object\3D Object\bin\Debug\net6.0\ref\3D Object.dll
+C:\ALPHA\Kuliah\Sem4\Grafkom\Praktek\3D Object\3D Object\bin\Debug\net6.0\3D Object.pdb
+C:\ALPHA\Kuliah\Sem4\Grafkom\Praktek\3D Object\3D Object\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\ALPHA\Kuliah\Sem4\Grafkom\Praktek\3D Object\3D Object\bin\Debug\net6.0\OpenTK.Compute.dll
+C:\ALPHA\Kuliah\Sem4\Grafkom\Praktek\3D Object\3D Object\bin\Debug\net6.0\OpenTK.Core.dll
+C:\ALPHA\Kuliah\Sem4\Grafkom\Praktek\3D Object\3D Object\bin\Debug\net6.0\OpenTK.Graphics.dll
+C:\ALPHA\Kuliah\Sem4\Grafkom\Praktek\3D Object\3D Object\bin\Debug\net6.0\OpenTK.Input.dll
+C:\ALPHA\Kuliah\Sem4\Grafkom\Praktek\3D Object\3D Object\bin\Debug\net6.0\OpenTK.Mathematics.dll
+C:\ALPHA\Kuliah\Sem4\Grafkom\Praktek\3D Object\3D Object\bin\Debug\net6.0\OpenTK.OpenAL.dll
+C:\ALPHA\Kuliah\Sem4\Grafkom\Praktek\3D Object\3D Object\bin\Debug\net6.0\OpenTK.Windowing.Common.dll
+C:\ALPHA\Kuliah\Sem4\Grafkom\Praktek\3D Object\3D Object\bin\Debug\net6.0\OpenTK.Windowing.Desktop.dll
+C:\ALPHA\Kuliah\Sem4\Grafkom\Praktek\3D Object\3D Object\bin\Debug\net6.0\OpenTK.Windowing.GraphicsLibraryFramework.dll
+C:\ALPHA\Kuliah\Sem4\Grafkom\Praktek\3D Object\3D Object\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\ALPHA\Kuliah\Sem4\Grafkom\Praktek\3D Object\3D Object\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\ALPHA\Kuliah\Sem4\Grafkom\Praktek\3D Object\3D Object\bin\Debug\net6.0\runtimes\linux-x64\native\libglfw.so.3.3
+C:\ALPHA\Kuliah\Sem4\Grafkom\Praktek\3D Object\3D Object\bin\Debug\net6.0\runtimes\osx-x64\native\libglfw.3.dylib
+C:\ALPHA\Kuliah\Sem4\Grafkom\Praktek\3D Object\3D Object\bin\Debug\net6.0\runtimes\win-x64\native\glfw3.dll
+C:\ALPHA\Kuliah\Sem4\Grafkom\Praktek\3D Object\3D Object\bin\Debug\net6.0\runtimes\win-x86\native\glfw3.dll
+C:\ALPHA\Kuliah\Sem4\Grafkom\Praktek\3D Object\3D Object\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\ALPHA\Kuliah\Sem4\Grafkom\Praktek\3D Object\3D Object\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\ALPHA\Kuliah\Sem4\Grafkom\Praktek\3D Object\3D Object\bin\Debug\net6.0\LearnOpenTK.Common.dll
+C:\ALPHA\Kuliah\Sem4\Grafkom\Praktek\3D Object\3D Object\bin\Debug\net6.0\LearnOpenTK.Common.pdb
+C:\ALPHA\Kuliah\Sem4\Grafkom\Praktek\3D Object\3D Object\obj\Debug\net6.0\3D Object.csproj.AssemblyReference.cache
+C:\ALPHA\Kuliah\Sem4\Grafkom\Praktek\3D Object\3D Object\obj\Debug\net6.0\3D Object.GeneratedMSBuildEditorConfig.editorconfig
+C:\ALPHA\Kuliah\Sem4\Grafkom\Praktek\3D Object\3D Object\obj\Debug\net6.0\3D Object.AssemblyInfoInputs.cache
+C:\ALPHA\Kuliah\Sem4\Grafkom\Praktek\3D Object\3D Object\obj\Debug\net6.0\3D Object.AssemblyInfo.cs
+C:\ALPHA\Kuliah\Sem4\Grafkom\Praktek\3D Object\3D Object\obj\Debug\net6.0\3D Object.csproj.CoreCompileInputs.cache
+C:\ALPHA\Kuliah\Sem4\Grafkom\Praktek\3D Object\3D Object\obj\Debug\net6.0\3D Object.csproj.CopyComplete
+C:\ALPHA\Kuliah\Sem4\Grafkom\Praktek\3D Object\3D Object\obj\Debug\net6.0\3D Object.dll
+C:\ALPHA\Kuliah\Sem4\Grafkom\Praktek\3D Object\3D Object\obj\Debug\net6.0\ref\3D Object.dll
+C:\ALPHA\Kuliah\Sem4\Grafkom\Praktek\3D Object\3D Object\obj\Debug\net6.0\3D Object.pdb
+C:\ALPHA\Kuliah\Sem4\Grafkom\Praktek\3D Object\3D Object\obj\Debug\net6.0\3D Object.genruntimeconfig.cache
+C:\Users\Mika\OneDrive\Documents\3D Object\3D Object\obj\Debug\net6.0\3D Object.csproj.AssemblyReference.cache
+C:\Users\Mika\OneDrive\Documents\3D Object\3D Object\obj\Debug\net6.0\3D Object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mika\OneDrive\Documents\3D Object\3D Object\obj\Debug\net6.0\3D Object.AssemblyInfoInputs.cache
+C:\Users\Mika\OneDrive\Documents\3D Object\3D Object\obj\Debug\net6.0\3D Object.AssemblyInfo.cs
+C:\Users\Mika\OneDrive\Documents\3D Object\3D Object\obj\Debug\net6.0\3D Object.csproj.CoreCompileInputs.cache
+C:\Users\Mika\OneDrive\Documents\3D Object\3D Object\obj\Debug\net6.0\3D Object.dll
+C:\Users\Mika\OneDrive\Documents\3D Object\3D Object\obj\Debug\net6.0\ref\3D Object.dll
+C:\Users\Mika\OneDrive\Documents\3D Object\3D Object\obj\Debug\net6.0\3D Object.pdb
+C:\Users\Mika\OneDrive\Documents\3D Object\3D Object\bin\Debug\net6.0\3D Object.exe
+C:\Users\Mika\OneDrive\Documents\3D Object\3D Object\bin\Debug\net6.0\3D Object.deps.json
+C:\Users\Mika\OneDrive\Documents\3D Object\3D Object\bin\Debug\net6.0\3D Object.runtimeconfig.json
+C:\Users\Mika\OneDrive\Documents\3D Object\3D Object\bin\Debug\net6.0\3D Object.dll
+C:\Users\Mika\OneDrive\Documents\3D Object\3D Object\bin\Debug\net6.0\ref\3D Object.dll
+C:\Users\Mika\OneDrive\Documents\3D Object\3D Object\bin\Debug\net6.0\3D Object.pdb
+C:\Users\Mika\OneDrive\Documents\3D Object\3D Object\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mika\OneDrive\Documents\3D Object\3D Object\bin\Debug\net6.0\OpenTK.Compute.dll
+C:\Users\Mika\OneDrive\Documents\3D Object\3D Object\bin\Debug\net6.0\OpenTK.Core.dll
+C:\Users\Mika\OneDrive\Documents\3D Object\3D Object\bin\Debug\net6.0\OpenTK.Graphics.dll
+C:\Users\Mika\OneDrive\Documents\3D Object\3D Object\bin\Debug\net6.0\OpenTK.Input.dll
+C:\Users\Mika\OneDrive\Documents\3D Object\3D Object\bin\Debug\net6.0\OpenTK.Mathematics.dll
+C:\Users\Mika\OneDrive\Documents\3D Object\3D Object\bin\Debug\net6.0\OpenTK.OpenAL.dll
+C:\Users\Mika\OneDrive\Documents\3D Object\3D Object\bin\Debug\net6.0\OpenTK.Windowing.Common.dll
+C:\Users\Mika\OneDrive\Documents\3D Object\3D Object\bin\Debug\net6.0\OpenTK.Windowing.Desktop.dll
+C:\Users\Mika\OneDrive\Documents\3D Object\3D Object\bin\Debug\net6.0\OpenTK.Windowing.GraphicsLibraryFramework.dll
+C:\Users\Mika\OneDrive\Documents\3D Object\3D Object\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Mika\OneDrive\Documents\3D Object\3D Object\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mika\OneDrive\Documents\3D Object\3D Object\bin\Debug\net6.0\runtimes\linux-x64\native\libglfw.so.3.3
+C:\Users\Mika\OneDrive\Documents\3D Object\3D Object\bin\Debug\net6.0\runtimes\osx-x64\native\libglfw.3.dylib
+C:\Users\Mika\OneDrive\Documents\3D Object\3D Object\bin\Debug\net6.0\runtimes\win-x64\native\glfw3.dll
+C:\Users\Mika\OneDrive\Documents\3D Object\3D Object\bin\Debug\net6.0\runtimes\win-x86\native\glfw3.dll
+C:\Users\Mika\OneDrive\Documents\3D Object\3D Object\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Mika\OneDrive\Documents\3D Object\3D Object\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Mika\OneDrive\Documents\3D Object\3D Object\bin\Debug\net6.0\LearnOpenTK.Common.dll
+C:\Users\Mika\OneDrive\Documents\3D Object\3D Object\bin\Debug\net6.0\LearnOpenTK.Common.pdb
+C:\Users\Mika\OneDrive\Documents\3D Object\3D Object\obj\Debug\net6.0\3D Object.csproj.CopyComplete
+C:\Users\Mika\OneDrive\Documents\3D Object\3D Object\obj\Debug\net6.0\3D Object.genruntimeconfig.cache
+C:\Users\Mika\OneDrive\Documents\3D Object - Copy\3D Object\bin\Debug\net6.0\3D Object.exe
+C:\Users\Mika\OneDrive\Documents\3D Object - Copy\3D Object\bin\Debug\net6.0\3D Object.deps.json
+C:\Users\Mika\OneDrive\Documents\3D Object - Copy\3D Object\bin\Debug\net6.0\3D Object.runtimeconfig.json
+C:\Users\Mika\OneDrive\Documents\3D Object - Copy\3D Object\bin\Debug\net6.0\3D Object.dll
+C:\Users\Mika\OneDrive\Documents\3D Object - Copy\3D Object\bin\Debug\net6.0\ref\3D Object.dll
+C:\Users\Mika\OneDrive\Documents\3D Object - Copy\3D Object\bin\Debug\net6.0\3D Object.pdb
+C:\Users\Mika\OneDrive\Documents\3D Object - Copy\3D Object\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mika\OneDrive\Documents\3D Object - Copy\3D Object\bin\Debug\net6.0\OpenTK.Compute.dll
+C:\Users\Mika\OneDrive\Documents\3D Object - Copy\3D Object\bin\Debug\net6.0\OpenTK.Core.dll
+C:\Users\Mika\OneDrive\Documents\3D Object - Copy\3D Object\bin\Debug\net6.0\OpenTK.Graphics.dll
+C:\Users\Mika\OneDrive\Documents\3D Object - Copy\3D Object\bin\Debug\net6.0\OpenTK.Input.dll
+C:\Users\Mika\OneDrive\Documents\3D Object - Copy\3D Object\bin\Debug\net6.0\OpenTK.Mathematics.dll
+C:\Users\Mika\OneDrive\Documents\3D Object - Copy\3D Object\bin\Debug\net6.0\OpenTK.OpenAL.dll
+C:\Users\Mika\OneDrive\Documents\3D Object - Copy\3D Object\bin\Debug\net6.0\OpenTK.Windowing.Common.dll
+C:\Users\Mika\OneDrive\Documents\3D Object - Copy\3D Object\bin\Debug\net6.0\OpenTK.Windowing.Desktop.dll
+C:\Users\Mika\OneDrive\Documents\3D Object - Copy\3D Object\bin\Debug\net6.0\OpenTK.Windowing.GraphicsLibraryFramework.dll
+C:\Users\Mika\OneDrive\Documents\3D Object - Copy\3D Object\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Mika\OneDrive\Documents\3D Object - Copy\3D Object\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mika\OneDrive\Documents\3D Object - Copy\3D Object\bin\Debug\net6.0\runtimes\linux-x64\native\libglfw.so.3.3
+C:\Users\Mika\OneDrive\Documents\3D Object - Copy\3D Object\bin\Debug\net6.0\runtimes\osx-x64\native\libglfw.3.dylib
+C:\Users\Mika\OneDrive\Documents\3D Object - Copy\3D Object\bin\Debug\net6.0\runtimes\win-x64\native\glfw3.dll
+C:\Users\Mika\OneDrive\Documents\3D Object - Copy\3D Object\bin\Debug\net6.0\runtimes\win-x86\native\glfw3.dll
+C:\Users\Mika\OneDrive\Documents\3D Object - Copy\3D Object\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Mika\OneDrive\Documents\3D Object - Copy\3D Object\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Mika\OneDrive\Documents\3D Object - Copy\3D Object\bin\Debug\net6.0\LearnOpenTK.Common.dll
+C:\Users\Mika\OneDrive\Documents\3D Object - Copy\3D Object\bin\Debug\net6.0\LearnOpenTK.Common.pdb
+C:\Users\Mika\OneDrive\Documents\3D Object - Copy\3D Object\obj\Debug\net6.0\3D Object.csproj.AssemblyReference.cache
+C:\Users\Mika\OneDrive\Documents\3D Object - Copy\3D Object\obj\Debug\net6.0\3D Object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mika\OneDrive\Documents\3D Object - Copy\3D Object\obj\Debug\net6.0\3D Object.AssemblyInfoInputs.cache
+C:\Users\Mika\OneDrive\Documents\3D Object - Copy\3D Object\obj\Debug\net6.0\3D Object.AssemblyInfo.cs
+C:\Users\Mika\OneDrive\Documents\3D Object - Copy\3D Object\obj\Debug\net6.0\3D Object.csproj.CoreCompileInputs.cache
+C:\Users\Mika\OneDrive\Documents\3D Object - Copy\3D Object\obj\Debug\net6.0\3D Object.csproj.CopyComplete
+C:\Users\Mika\OneDrive\Documents\3D Object - Copy\3D Object\obj\Debug\net6.0\3D Object.dll
+C:\Users\Mika\OneDrive\Documents\3D Object - Copy\3D Object\obj\Debug\net6.0\ref\3D Object.dll
+C:\Users\Mika\OneDrive\Documents\3D Object - Copy\3D Object\obj\Debug\net6.0\3D Object.pdb
+C:\Users\Mika\OneDrive\Documents\3D Object - Copy\3D Object\obj\Debug\net6.0\3D Object.genruntimeconfig.cache
+C:\Users\Mika\OneDrive\Documents\Project UAS\3D Object\obj\Debug\net6.0\3D Object.csproj.AssemblyReference.cache
+C:\Users\Mika\OneDrive\Documents\Project UAS\3D Object\obj\Debug\net6.0\3D Object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mika\OneDrive\Documents\Project UAS\3D Object\obj\Debug\net6.0\3D Object.AssemblyInfoInputs.cache
+C:\Users\Mika\OneDrive\Documents\Project UAS\3D Object\obj\Debug\net6.0\3D Object.AssemblyInfo.cs
+C:\Users\Mika\OneDrive\Documents\Project UAS\3D Object\obj\Debug\net6.0\3D Object.csproj.CoreCompileInputs.cache
+C:\Users\Mika\OneDrive\Documents\Project UAS\3D Object\obj\Debug\net6.0\3D Object.dll
+C:\Users\Mika\OneDrive\Documents\Project UAS\3D Object\obj\Debug\net6.0\ref\3D Object.dll
+C:\Users\Mika\OneDrive\Documents\Project UAS\3D Object\obj\Debug\net6.0\3D Object.pdb
+C:\Users\Mika\OneDrive\Documents\Project UAS\3D Object\bin\Debug\net6.0\3D Object.exe
+C:\Users\Mika\OneDrive\Documents\Project UAS\3D Object\bin\Debug\net6.0\3D Object.deps.json
+C:\Users\Mika\OneDrive\Documents\Project UAS\3D Object\bin\Debug\net6.0\3D Object.runtimeconfig.json
+C:\Users\Mika\OneDrive\Documents\Project UAS\3D Object\bin\Debug\net6.0\3D Object.dll
+C:\Users\Mika\OneDrive\Documents\Project UAS\3D Object\bin\Debug\net6.0\ref\3D Object.dll
+C:\Users\Mika\OneDrive\Documents\Project UAS\3D Object\bin\Debug\net6.0\3D Object.pdb
+C:\Users\Mika\OneDrive\Documents\Project UAS\3D Object\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mika\OneDrive\Documents\Project UAS\3D Object\bin\Debug\net6.0\OpenTK.Compute.dll
+C:\Users\Mika\OneDrive\Documents\Project UAS\3D Object\bin\Debug\net6.0\OpenTK.Core.dll
+C:\Users\Mika\OneDrive\Documents\Project UAS\3D Object\bin\Debug\net6.0\OpenTK.Graphics.dll
+C:\Users\Mika\OneDrive\Documents\Project UAS\3D Object\bin\Debug\net6.0\OpenTK.Input.dll
+C:\Users\Mika\OneDrive\Documents\Project UAS\3D Object\bin\Debug\net6.0\OpenTK.Mathematics.dll
+C:\Users\Mika\OneDrive\Documents\Project UAS\3D Object\bin\Debug\net6.0\OpenTK.OpenAL.dll
+C:\Users\Mika\OneDrive\Documents\Project UAS\3D Object\bin\Debug\net6.0\OpenTK.Windowing.Common.dll
+C:\Users\Mika\OneDrive\Documents\Project UAS\3D Object\bin\Debug\net6.0\OpenTK.Windowing.Desktop.dll
+C:\Users\Mika\OneDrive\Documents\Project UAS\3D Object\bin\Debug\net6.0\OpenTK.Windowing.GraphicsLibraryFramework.dll
+C:\Users\Mika\OneDrive\Documents\Project UAS\3D Object\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Mika\OneDrive\Documents\Project UAS\3D Object\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mika\OneDrive\Documents\Project UAS\3D Object\bin\Debug\net6.0\runtimes\linux-x64\native\libglfw.so.3.3
+C:\Users\Mika\OneDrive\Documents\Project UAS\3D Object\bin\Debug\net6.0\runtimes\osx-x64\native\libglfw.3.dylib
+C:\Users\Mika\OneDrive\Documents\Project UAS\3D Object\bin\Debug\net6.0\runtimes\win-x64\native\glfw3.dll
+C:\Users\Mika\OneDrive\Documents\Project UAS\3D Object\bin\Debug\net6.0\runtimes\win-x86\native\glfw3.dll
+C:\Users\Mika\OneDrive\Documents\Project UAS\3D Object\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Mika\OneDrive\Documents\Project UAS\3D Object\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Mika\OneDrive\Documents\Project UAS\3D Object\bin\Debug\net6.0\LearnOpenTK.Common.dll
+C:\Users\Mika\OneDrive\Documents\Project UAS\3D Object\bin\Debug\net6.0\LearnOpenTK.Common.pdb
+C:\Users\Mika\OneDrive\Documents\Project UAS\3D Object\obj\Debug\net6.0\3D Object.csproj.CopyComplete
+C:\Users\Mika\OneDrive\Documents\Project UAS\3D Object\obj\Debug\net6.0\3D Object.genruntimeconfig.cache
